@@ -3,7 +3,7 @@
 # a shared bucket in the telia-common-logs-prod account.
 
 provider "aws" {
-  region = "us-east-1"
+  region = "eu-west-1"
 }
 
 locals {
